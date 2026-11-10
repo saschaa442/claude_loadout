@@ -1,0 +1,18 @@
+{
+  "claude-plugins-official": {
+    "source": {
+      "source": "github",
+      "repo": "anthropics/claude-plugins-official"
+    },
+    "installLocation": "/Users/sascha/.claude/plugins/marketplaces/claude-plugins-official",
+    "lastUpdated": "2026-11-10T19:28:45.183Z"
+  },
+  "claude-mods": {
+    "source": {
+      "source": "directory",
+      "path": "/Users/sascha/.claude-mods"
+    },
+    "installLocation": "/Users/sascha/.claude-mods",
+    "lastUpdated": "2026-11-05T20:12:13.306Z"
+  }
+}

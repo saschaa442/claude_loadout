@@ -1,0 +1,10 @@
+{
+  "name": "brain-dump",
+  "version": "0.4.0",
+  "description": "Offers to shape a long, loose prompt (150+ words) into a short German four-part brief (Aufgabe, Zweck, Leitplanken, Fertig wenn), asking up to three questions about real gaps first",
+  "author": {
+    "name": "Sascha Hundert",
+    "url": "https://github.com/saschaa442/claude_loadout"
+  },
+  "types": "./types/index.d.ts"
+}

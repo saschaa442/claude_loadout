@@ -1,0 +1,10 @@
+{
+  "name": "handoff",
+  "version": "0.4.0",
+  "description": "At 280k tokens asks whether to write a handoff (Write handoff / Not now / Hide); writes one by itself when Cache Clock asks before the cache goes cold. Shows the steps with progress bars, then copies it or starts a new chat with it. Logs to ~/.claude/mods-logs/handoff.log and saves a draft first",
+  "author": {
+    "name": "Sascha Hundert",
+    "url": "https://github.com/saschaa442/claude_loadout"
+  },
+  "types": "./types/index.d.ts"
+}

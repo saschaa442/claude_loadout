@@ -1,0 +1,43 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/bin/sh -c 'rex __internal session-start --agent claude --feature-session-naming=false 2>/dev/null || true'",
+            "timeout": 5
+          }
+        ]
+      }
+    ]
+  },
+  "statusLine": {
+    "type": "command",
+    "command": "~/.claude/statusline.sh"
+  },
+  "enabledPlugins": {
+    "brain-dump@claude-mods": true,
+    "cache-clock@claude-mods": true,
+    "chat-inventory@claude-mods": true,
+    "handoff@claude-mods": true,
+    "frontend-design@claude-plugins-official": true
+  },
+  "extraKnownMarketplaces": {
+    "claude-mods": {
+      "source": {
+        "source": "directory",
+        "path": "/Users/sascha/.claude-mods"
+      }
+    }
+  },
+  "outputStyle": "Concise",
+  "modelSettings": {
+    "claude-opus-5-5": {
+      "effortLevel": "medium"
+    }
+  },
+  "skipDangerousModePermissionPrompt": true,
+  "skipWorkflowUsageWarning": true,
+  "theme": "auto"
+}

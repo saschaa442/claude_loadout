@@ -1,0 +1,10 @@
+{
+  "name": "cache-clock",
+  "version": "0.4.0",
+  "description": "Counts down until the chat's prompt cache goes cold, above the prompt. 90 s before a chat of 100k+ tokens goes cold, asks the handoff mod for a handoff by itself. Keep warm pings the cache in the background so it does not go cold",
+  "author": {
+    "name": "Sascha Hundert",
+    "url": "https://github.com/saschaa442/claude_loadout"
+  },
+  "types": "./types/index.d.ts"
+}

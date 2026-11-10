@@ -1,0 +1,4 @@
+# Laufzeitdaten der Mods (Handoffs, Schalter) – privat/flüchtig
+mods/*/.claude/
+node_modules/
+.DS_Store

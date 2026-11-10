@@ -1,0 +1,51 @@
+{
+  "version": 2,
+  "plugins": {
+    "brain-dump@claude-mods": [
+      {
+        "scope": "user",
+        "installPath": "/Users/sascha/.claude/plugins/cache/claude-mods/brain-dump/0.4.0",
+        "version": "0.4.0",
+        "installedAt": "2026-10-28T21:59:25.563Z",
+        "lastUpdated": "2026-11-05T20:04:09.660Z"
+      }
+    ],
+    "cache-clock@claude-mods": [
+      {
+        "scope": "user",
+        "installPath": "/Users/sascha/.claude/plugins/cache/claude-mods/cache-clock/0.4.0",
+        "version": "0.4.0",
+        "installedAt": "2026-10-28T22:15:52.887Z",
+        "lastUpdated": "2026-11-05T20:04:08.382Z"
+      }
+    ],
+    "chat-inventory@claude-mods": [
+      {
+        "scope": "user",
+        "installPath": "/Users/sascha/.claude/plugins/cache/claude-mods/chat-inventory/0.3.0",
+        "version": "0.3.0",
+        "installedAt": "2026-10-28T22:15:53.495Z",
+        "lastUpdated": "2026-11-05T20:04:09.041Z"
+      }
+    ],
+    "handoff@claude-mods": [
+      {
+        "scope": "user",
+        "installPath": "/Users/sascha/.claude/plugins/cache/claude-mods/handoff/0.4.0",
+        "version": "0.4.0",
+        "installedAt": "2026-10-28T22:15:54.027Z",
+        "lastUpdated": "2026-11-05T20:12:13.955Z"
+      }
+    ],
+    "frontend-design@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/sascha/.claude/plugins/cache/claude-plugins-official/frontend-design/1.1.1",
+        "version": "1.1.1",
+        "installedAt": "2026-11-04T08:46:14.929Z",
+        "lastUpdated": "2026-11-04T08:46:14.929Z",
+        "gitCommitSha": "fa4eb54397ee2faccb6940512a19c017cb1337f3"
+      }
+    ]
+  }
+}
